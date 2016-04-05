@@ -7,3 +7,7 @@ Explores simple Spark Core library usage for IoT. Project components are
 - Adafruit SSD1306 library to drive OLED (https://github.com/pkourany/Adafruit_SSD1306)
 - http library
 - DNS library
+
+![Fritzing breadboard](./breadboard.png)
+
+_for now, mostly a (hopefully) working dump site - this should change sometime in the future_
