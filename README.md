@@ -8,6 +8,6 @@ Explores simple Spark Core library usage for IoT. Project components are
 - http library
 - DNS library
 
-![Fritzing breadboard](./breadboard.png)
+![Fritzing breadboard](https://github.com/tsoiks/spark-core-explore/blob/master/breadboard.png)
 
 _for now, mostly a (hopefully) working dump site - this should change sometime in the future_
